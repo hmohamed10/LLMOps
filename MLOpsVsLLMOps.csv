@@ -1,6 +1,6 @@
 'Lifecycle Stage', 'MLOps', 'LLMOps'
 'Data Collection', 'Structured/semistructured data', 'Vast unstructured data (text from web, books, forums)'
-'Data Preparation', 'Feature engineering, cleaning, normalization', 
+'Data Preparation', 'Feature engineering, cleaning, normalization', 'Cleaning for bias, toxicity filtering, tokenization, dataset curation'
 'Model Training', 'Lightweight to moderately heavy; task-specific models', 'Pretraining on massive datasets using distributed computing (e.g., GPUs/TPUs, Horovod)'
 'Experimentation', 'Trying out different ML models and tuning','Involves large-scale hyperparameter tuning and scaling across GPUs'
 'Fine-tuning','Optional or lightweight fine-tuning for specific tasks','Crucial step; applies to downstream tasks using domain-specific data (e.g., summarization)'
