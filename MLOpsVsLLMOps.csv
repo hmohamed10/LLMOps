@@ -1,4 +1,4 @@
-Lifecycle Stage, MLOps, LLMOps
+'Lifecycle Stage', 'MLOps', 'LLMOps'
 'Data Collection', 'Structured/semistructured data', 'Vast unstructured data (text from web, books, forums)'
 'Data Preparation', 'Feature engineering, cleaning, normalization', 
 'Model Training', 'Lightweight to moderately heavy; task-specific models', 'Pretraining on massive datasets using distributed computing (e.g., GPUs/TPUs, Horovod)'
